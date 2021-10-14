@@ -1,0 +1,37 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/noahyzhang/java/test-tccm-client/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/noahyzhang/java/test-tccm-client/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'test-tccm-client 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/noahyzhang/java/test-tccm-client/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'test-tccm-client 1.0-SNAPSHOT API'
+com.tencent.test_tccm
+/Users/noahyzhang/java/test-tccm-client/src/main/java = 1634091870000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/constant-values.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/overview-tree.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/index.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/allclasses-noframe.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/index-all.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/deprecated-list.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/script.js = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/stylesheet.css = 1634177061000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/help-doc.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/allclasses-frame.html = 1634177062000
+/Users/noahyzhang/java/test-tccm-client/target/apidocs/package-list = 1634177062000

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d16719a-a9f1-4c97-ac3f-e8981713088e" name="test-tccm-client" url="http://9">
+        <fileTransfer rootFolder="/data/home/noahyzhang" accessType="SFTP" host="9.134.239.95" port="36000" sshConfigId="07c37893-ed76-4d90-805c-918b91b093d6" sshConfig="root@9.134.239.95:36000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
